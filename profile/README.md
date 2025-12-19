@@ -1,6 +1,8 @@
 Welcome to the _Physiopy_ community
 ---
 
+*Physiopy’s aim is to improve the quality of physiological data collection and application in neuroimaging research through community discussion and open source tool development.*
+
 We are an international group of volunteers that have developed a suite of Python libraries to help researchers process physiological files, particularly when recorded alongside neuroimaging acquisitions. These libraries vary from formatting physiological files into a standard format, data quality control, peak detection analyses and preparing physiological data for fMRI denoising. 
  
 🌐 Check out our [Website](https://physiopy.github.io), which includes our Contributor Guide and Code of Conduct. 
