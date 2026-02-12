@@ -8,6 +8,7 @@ We are an international group of volunteers that have developed a suite of Pytho
 🌐 Check out our [Website](https://physiopy.github.io), which includes our Contributor Guide and Code of Conduct. 
 
 📝 Read our [Community Practices](https://physiopy-community-guidelines.readthedocs.io/en/latest/index.html), where you can find advice and recommendations for physiological data acquisition, preprocessing, and analysis.
+- 📝 Read our recent publication "[Community-recommended practices for collecting physiological data in functional MRI: The “Physiopy” approach"](https://apertureneuro.org/article/155157-community-recommended-practices-for-collecting-physiological-data-in-functional-mri-the-physiopy-approach?auth_token=dMOH7aUhYaq1_iIBVJd2) published in Aperture Neuro in 2026.
 
 🧑‍💻 We meet virtually, typically every third Thursday of the month. To join (and for other general enquiries about where to keep up to date with community updates and discussions) email physiopy.community@gmail.com. 
 
